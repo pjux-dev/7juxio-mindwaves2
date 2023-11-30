@@ -87,7 +87,7 @@ const AppContent = () => {
       </div>      
 
       <div className="footer">
-        <img src="7juxio.png" alt="Logo" className="footer-logo" />
+        <a href="https://7jux.io"><img src="7juxio.png" alt="Logo" className="footer-logo" /></a>
         <span className="footer-statement">a 7juxio hypermedia app</span>
       </div>
 
