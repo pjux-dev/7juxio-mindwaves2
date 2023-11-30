@@ -36,6 +36,9 @@ const AppContent = () => {
 
     // Scroll to the top when the component mounts
     window.scrollTo(0, 0);
+
+    // Set a unique title for the About page
+    document.title = "7juxio | MindWaves";
   }, [location.pathname, location.search]);
 
   const handleVideoSelect = (video) => {
@@ -65,9 +68,9 @@ const AppContent = () => {
     <div className="hypermedia-container">
       <div className="nav-column2">
         {userName && <p>Welcome, {userName}!</p>}  
-        <img src="dmt-cover.jpg" alt="DMT Cover" className="album-cover2" />
-        <h1 className="album-title">Dream Manifestation Toolkit</h1>
-        <p className="album-blurb">A hypermedia mixtape created with the 7juxio platform.</p>
+        <img src="mindwaves.jpg" alt="DMT Cover" className="album-cover2" />
+        <h1 className="album-title">MindWaves</h1>
+        <p className="album-blurb">A hypermedia collection of beats and visuals by 7juxio.</p>
         <span><button className="about-button" onClick={handleAboutClick}>
             Release Notes
         </button></span>

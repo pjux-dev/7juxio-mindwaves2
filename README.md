@@ -1,9 +1,9 @@
 # ABOUT
 
-This is the source code to build the 7juxio hypermedia app: Dream Manifestation Toolkit
+This is the source code to build the 7juxio hypermedia app: MindWaves
 https://dmt.7jux.io
 
-You will need to add /videos the public directory: https://www.dropbox.com/scl/fi/i1my6pl6mz0wgid9kab6c/Add-to-public.zip?rlkey=jaqyge9f5vsi5gqb5tmmp4kb5&dl=0
+You will need to add /videos the public directory: 
 
 # Getting Started with Create React App
 
@@ -13,6 +13,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\

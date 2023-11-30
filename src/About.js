@@ -10,18 +10,17 @@ const About = () => {
 
     // Scroll to the top when the component mounts
     window.scrollTo(0, 0);
-
-    // Set a unique title for the About page
-    document.title = "7juxio | DMT - Release Notes";
+   
   }, []);
 
   return (
     <div className="container-about">      
-      <h1>Dream Manifestation Toolkit</h1>
-      <p>This project explores the concept of the mashup (or remix) and extends it into the visual realm through hypermedia.</p>
-      <p>The remix is a core element of the hip hop arts experience and central to the cultures of turntablism and beatmaking. In this project, 7juxio reimagines itself conjuring magical mix that include some of the greatest artists of all time. What if the 7juxio platform could actualize this alternate reality and bring these artists together for a collaboration?</p>
-      <p>This hypermedia release from <strong>7juxio</strong> is delivered via a React app coded using ChatGPT.</p>
-    </div>
+      <h1>MindWaves</h1>
+      <p>This hypermedia release from <strong>7juxio</strong> is delivered via a React app coded using ChatGPT. This collaboration combined creative human expression with artificial intelligence to create a new work of art we call <em>MindWaves</em>.</p>
+      <p>The music and visuals were programmed using the human-centered expressiveness of MIDI technology in Ableton Live and VDMX. That output was then combined with AI-generated code to distribute these ideas via global telecommunications networks.</p>
+      <p>We are happy to share this project and encourage you to share it. It is our hope that the combination of human creative activity with artificial intelligence sourced from the purest of intentions may impact the energy on planet Earth and elevate our collective thinking toward a higher consciousness.</p>
+      <p>We will be releasing the multimedia assets and code for this project via an open-source license and encourage your collaboration.</p>
+      <p>&mdash;7JUXIO & ChatGPT</p>    </div>
   );
 };
 

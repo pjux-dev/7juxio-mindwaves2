@@ -5,11 +5,11 @@ body {
 }
 
 /* Fonts */
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+Mono&display=swap');
 
-/* Set font to Josefin Sans */
+/* Set font to Noto Sans Mono */
 body {
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Noto Sans Mono', monospace;
 }
 
 /* Layout */
@@ -21,7 +21,7 @@ body {
 
 /* Styling */
 body {
-  background-color: #06063C;
+  background-color: #202020;
   color: #ffffff;
 }
 
@@ -40,7 +40,7 @@ body {
 
 /* Footer Styles */
 .footer {
-  background-color: #0e1251;
+  background-color: #202020;
   color: #fff;
   text-align: left;
   padding: 10px;
@@ -156,8 +156,8 @@ body {
 
 /* Button styles */
 .album-button {
-  background-color: #42498f;
-  color: #fff;
+  background-color: #41C3AC;
+  color: #222;
   font-weight: 300;
   font-size: 14px;
   padding: 6px;
