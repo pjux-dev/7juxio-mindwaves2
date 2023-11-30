@@ -1,7 +1,7 @@
 # ABOUT
 
 This is the source code to build the 7juxio hypermedia app: MindWaves
-https://dmt.7jux.io
+https://mindwaves.7jux.io
 
 You will need to add /videos the public directory: 
 
